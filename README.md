@@ -1,7 +1,5 @@
 ---
-title: Healthcare Data Analysis Project Report
-author: [Your Name]
-date: April 29, 2025
+Healthcare Data Analysis Project Report
 ---
 
 # Healthcare Data Analysis Project Report
